@@ -9,7 +9,7 @@ Use case
 Sometimes, anime series are too slow. Instead of wasting time trudging through them, just use this tool to speed them up a little bit.  
   
 Why this works  
-Recently [end of 2016, beginning of 2017], Funimation decided to redo their website and, for whatever reason, decided to use an HTML5 video player instead of their traditional Flash video player. This opened up Pandora's Box with regard to scripting that can be done by customers - abilities that were previous made difficult because the video was sitting behind Flash.  
+Recently [end of 2016, beginning of 2017], Funimation decided to redo their website and, for whatever reason, decided to use an HTML5 video player instead of their traditional Flash video player. This allows for customer scripting - abilities that were previous made difficult because the video was sitting behind Flash.  
   
 Everything that could go wrong, within reason  
 • Funimation could change the way they set up their video element, breaking this script  

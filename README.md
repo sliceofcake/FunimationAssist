@@ -13,7 +13,7 @@ Sometimes, anime series are too slow. Instead of wasting time trudging through t
 Some Funimation anime series seem to have color issues. Videos may appear too dark/color-similar, or too bright and washed out. Use this tool to perform enough corrections to make such series more watchable.  
   
 Why this works  
-Recently [end of 2016, beginning of 2017], Funimation decided to redo their website and, for whatever reason, decided to use an HTML5 video player instead of their traditional Flash video player. This allows for customer scripting - abilities that were previous made difficult because the video was sitting behind Flash.  
+Recently [end of 2016, beginning of 2017], Funimation decided to redo their website and, for whatever reason, decided to use an HTML5 video player instead of their traditional Flash video player. This allows for customer scripting - abilities that were previously made difficult because the video was sitting behind Flash.  
   
 Everything that could go wrong, within reason  
 • Funimation could change the way they set up their video element, breaking this script  
